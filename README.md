@@ -2,5 +2,5 @@
 practice to the Selenium course on Stepic
 
 
-name: Автоматизация тестирования с помощью Selenium и Python
+name: Automation testing with Selenium and Python
 link: https://stepik.org/course/575/syllabus
